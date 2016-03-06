@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457270294 source:c:\users\marce\onedrive\documents\codeblocks\operatorok\operatorok_h.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+
