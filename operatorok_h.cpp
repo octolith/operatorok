@@ -1,11 +1,13 @@
 // Operátorok átdefiniálása
 
 // Először nem kell azzal foglalkozni, hogy az operátorok mit csinálnak.
-// Először csak annyit kell csinálniuk, hogy kiírjanak valamit a képernyőre, azaz átdefiniáljuk őket úgy, hogy értelmes művelet helyett valami hülységet csináljanak.
+// Először csak annyit kell csinálniuk, hogy kiírjanak valamit a képernyőre, azaz átdefiniáljuk őket úgy,
+// hogy értelmes művelet helyett valami hülységet csináljanak.
 // Valójában a feladat nagy része ennyiből áll, át kell definiálni operátorokat barom módon és ennyi :D
 // A kimenetet előre megírt makrók át fogják alakítani, teljesen idióta módon, ezzel sem kell foglalkozni.
 
-// A feladat lényege, hogy lásd, hogy mikor hívodik konstruktor, destruktor, lásd, hogy hogyan lehet átdefiniálni operátorokat. Az, hogy mit csinálnak, jelen esetben MINDEGY!
+// A feladat lényege, hogy lásd, hogy mikor hívodik konstruktor, destruktor, lásd, hogy hogyan lehet átdefiniálni operátorokat.
+// Az, hogy mit csinálnak, az elején még MINDEGY! Utána is csak párat kell normálisan megírni.
 
 #include <iostream>
 #include <iomanip>
